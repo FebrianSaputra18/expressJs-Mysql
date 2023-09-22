@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Product A",
+      "price": 19.99
+    },
+    {
+      "id": 102,
+      "name": "Product B",
+      "price": 29.99
+    },
+    {
+      "id": 103,
+      "name": "Product C",
+      "price": 39.99
+    }
+  ],
+  "messages": [
+    {
+      "id": 1001,
+      "sender": "Alice",
+      "content": "Hello, world!",
+      "timestamp": "2023-09-08T12:00:00Z"
+    },
+    {
+      "id": 1002,
+      "sender": "Bob",
+      "content": "Hi there!",
+      "timestamp": "2023-09-08T12:30:00Z"
+    },
+    {
+      "id": 1003,
+      "sender": "Alice",
+      "content": "How are you?",
+      "timestamp": "2023-09-08T13:00:00Z"
+    }
+  ]
+}
